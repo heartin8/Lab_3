@@ -1,2 +1,2 @@
-# Lab_3
-Lab_3
+# week3-lab
+week3-lab
